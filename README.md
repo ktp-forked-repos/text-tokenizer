@@ -1,6 +1,6 @@
-[![GoDoc](https://godoc.org/github.com/beeva-labs/text-tokenizer?status.svg)](https://godoc.org/github.com/beeva-labs/gotokenizer)
-[![Build Status](https://travis-ci.org/beeva-labs/text-tokenizer.svg?branch=master)](https://travis-ci.org/beeva-labs/gotokenizer)
-[![Report](https://goreportcard.com/badge/github.com/beeva-labs/text-tokenizer)](https://goreportcard.com/report/github.com/beeva-labs/gotokenizer)
+[![GoDoc](https://godoc.org/github.com/beeva-labs/text-tokenizer?status.svg)](https://godoc.org/github.com/beeva-labs/text-tokenizer)
+[![Build Status](https://travis-ci.org/beeva-labs/text-tokenizer.svg?branch=master)](https://travis-ci.org/beeva-labs/text-tokenizer)
+[![Report](https://goreportcard.com/badge/github.com/beeva-labs/text-tokenizer)](https://goreportcard.com/report/github.com/beeva-labs/text-tokenizer)
 
 # text tokenizer
 Simple rule-based word/sentence tokenizer.
